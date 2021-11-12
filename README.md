@@ -9,10 +9,9 @@
   * and astronomy—real or [imagined](https://twitter.com/VastAndStarlit);
 - 🌱 I’m currently learning:
   * Python, with an emphasis on Django at the moment;
-  * R;
-  * SQL;
-  * the fundamentals of data science;
-  * and—despite my best efforts—some stuff about Linux.
+  * Javascript;
+  * Vue3;
+  * Plus CSS, HTML, all that frontend good stuff.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 You can find me on Twitter [@Epidiah](https://twitter.com/Epidiah), or at www.dig1000holes.com.
 
