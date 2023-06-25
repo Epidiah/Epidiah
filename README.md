@@ -7,13 +7,9 @@
   * cross-stitch;
   * [_The Rockford Files,_](https://twohundredaday.fireside.fm/);
   * and astronomy—real or [imagined](https://twitter.com/VastAndStarlit);
-- 🌱 I’m currently learning:
-  * Python, with an emphasis on Django at the moment;
-  * Javascript;
-  * Vue3;
-  * Plus CSS, HTML, all that frontend good stuff.
+- 🌱 I’m currently learning Clojure.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 You can find me on Twitter [@Epidiah](https://twitter.com/Epidiah), or at www.dig1000holes.com.
+- 📫 You can find me on Mastodon [@Epidiah@dice.camp](https://dice.camp/@epidiah), or at www.dig1000holes.com.
 
 <!---
 Epidiah/Epidiah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
