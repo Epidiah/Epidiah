@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Epidiah
 - 👀 I’m interested in:
-  * [tabletop roleplaying game design](www.dig1000holes.com);
+  * [tabletop roleplaying game design](https://www.dig1000holes.com);
   * vintage calculators;
-  * short fiction, especially horror and [sword & sorcery](www.worldswithoutmaster.com);
+  * short fiction, especially horror and [sword & sorcery](http://www.worldswithoutmaster.com);
   * vegan cuisine;
   * cross-stitch;
   * [_The Rockford Files,_](https://twohundredaday.fireside.fm/);
